@@ -2,9 +2,9 @@
 ChessEngine with AI opponent. Uses MiniMax and Greedy algorithms.
 
 
-Python, Pygame
+**Language:** Python, Pygame
 
-Next Steps:
+**Next Steps:**
 Debug,
 Improve AI efficiency
 
